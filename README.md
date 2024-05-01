@@ -10,6 +10,15 @@ Cheers,
 
 Tom
 
+### Installation:
+
+Download the zip file from the blue "<> Code" button dropdown at the top -> "Download ZIP".  
+Inside that zip file you will find a folder "TomsTools-main".  
+If you use a tool like 7zip to extract your files, enter this folder and extract the two folders "Operators" and "Resources" inside it into your Tooll3 installation via drag and drop.  
+Otherwise you can extract the zip file first to wherever you want and then move the two folder mentioned above to your Tooll3 installation folder.  
+Those top-folders already exist, so you will need to confirm any Windows file requesters that may come up.  
+I use the user name "screendream", so a folder with this name is added with my tools inside to those two directories.  
+
 ### The Operators:
 
 #### "WrapPoints_Tom"
