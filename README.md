@@ -12,7 +12,7 @@ Tom
 
 ### Installation:
 
-Download the zip file from the blue "<> Code" button dropdown at the top -> "Download ZIP".  
+Download the zip file from the "<> Code" button dropdown at the top -> "Download ZIP".  
 
 Inside that zip file you will find a folder "TomsTools-main".  
 
