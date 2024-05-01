@@ -36,3 +36,5 @@ This is the first tool in this collection and extends the factory **"WrapPoints"
 **"Clamp"** clamps points that move outside of the containing box "to the walls" of the box. Not the most useful mode but there for completeness anyway... ;-)
 
 **"Mirror"** is the main reason I extended this operator: It mirrors the points that go out one side of the box back inside, as if they would "bounce" from the wall. This looks much more natural and interesting in many cases than the other options and can also create quite interesting patterns, like "folding" a pointcloud in on itself.  
+
+TBC ;-)
