@@ -37,4 +37,6 @@ This is the first tool in this collection and extends the factory **"WrapPoints"
 
 **"Mirror"** is the main reason I extended this operator: It mirrors the points that go out one side of the box back inside, as if they would "bounce" from the wall. This looks much more natural and interesting in many cases than the other options and can also create quite interesting patterns, like "folding" a pointcloud in on itself.  
 
+Update: I now added a spherical mode where only the X-value of the size is used and points are clamped, mirrored and wrapped inside a sphere. Not a real "reflection" though, so use with care and test if it does what you need.
+
 TBC ;-)
